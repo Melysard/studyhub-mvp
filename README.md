@@ -20,10 +20,12 @@ Tampilan menarik dan mudah digunakan. Fokus belajar jadi maksimal!
 Digunakan oleh lebih dari 50 mahasiswa
 
 ## Demo / Prototype
-Tambahkan link prototype (misalnya Figma atau file HTML) di sini.
+Tambahkan link prototype (https://www.figma.com/proto/dh0vIHmuOekvH1SjoDEE9Q/Techno?node-id=41-3&t=ZhzdAxY040gNOJEY-1) di sini.
 
 ## Teknologi
-Tuliskan teknologi yang digunakan jika ada (contoh: HTML, CSS, JS, Flutter, dll).
+- **Figma** – Digunakan untuk mendesain prototype antarmuka aplikasi StudyHub.
+- Gratis / non berbayar.
 
 ## License
 This project is licensed under the MIT License.
+
