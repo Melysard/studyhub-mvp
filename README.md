@@ -15,17 +15,22 @@ Tampilan menarik dan mudah digunakan. Fokus belajar jadi maksimal!
 
 ## Testimoni Pengguna
 > “Aplikasinya sangat membantu! Materinya lengkap dan videonya mudah dipahami.”  
-> — Ani, Mahasiswa SI  
+> — Maurin, Mahasiswa SI
 
-Digunakan oleh lebih dari 50 mahasiswa
+✅ Digunakan oleh lebih dari 50 mahasiswa
 
 ## Demo / Prototype
-Tambahkan link prototype (https://www.figma.com/proto/dh0vIHmuOekvH1SjoDEE9Q/Techno?node-id=41-3&t=ZhzdAxY040gNOJEY-1) di sini.
+[Klik di sini untuk melihat prototype StudyHub di Figma](https://www.figma.com/proto/dh0vIHmuOekvH1SjoDEE9Q/Techno?node-id=41-3&t=ZhzdAxY040gNOJEY-1)
 
 ## Teknologi
 - **Figma** – Digunakan untuk mendesain prototype antarmuka aplikasi StudyHub.
 - Gratis / non berbayar.
 
+## Pitch Deck
+[Download Pitch Deck (PDF)](pitch-deck.pdf)
+
+## Video Demo
+[Watch on YouTube](https://youtube.com/xxxxxx)
+
 ## License
 This project is licensed under the MIT License.
-
