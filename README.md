@@ -15,7 +15,7 @@ Tampilan menarik dan mudah digunakan. Fokus belajar jadi maksimal!
 
 ## Testimoni Pengguna
 > “Aplikasinya sangat membantu! Materinya lengkap dan videonya mudah dipahami.”  
-> — Maurin, Mahasiswa SI
+> — Maurin, Mahasiswa TI
 
 ✅ Digunakan oleh lebih dari 50 mahasiswa
 
