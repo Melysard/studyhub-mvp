@@ -2,7 +2,7 @@
 
 StudyHub adalah aplikasi belajar yang membantu pelajar dan mahasiswa menemukan materi lengkap, video pembelajaran, mencatat, dan berdiskusi secara interaktif.
 
-![Preview StudyHub](https://sttpln-my.sharepoint.com/:i:/g/personal/melysa2232003_itpln_ac_id/EbJJhxT8n7lGuIdaAYKHn9EBrgaYE5f5bKqqa8QRgTlYAA?e=oQgjzr)
+![Preview StudyHub](link-ke-gambar-preview.png)
 
 ## Fitur Unggulan
 - **Materi Lengkap** – Akses ke berbagai materi pembelajaran.
