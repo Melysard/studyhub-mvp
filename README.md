@@ -27,7 +27,7 @@ Tampilan menarik dan mudah digunakan. Fokus belajar jadi maksimal!
 - Gratis / non berbayar.
 
 ## Pitch Deck
-[Download Pitch Deck (PDF)](Pitch Deck STUDYHUB.pdf)
+[Download Pitch Deck (PDF)](Pitch_Deck_STUDYHUB.pdf)
 
 ## Video Demo
 [Watch on YouTube](https://youtube.com/xxxxxx)
