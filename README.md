@@ -27,10 +27,10 @@ Tampilan menarik dan mudah digunakan. Fokus belajar jadi maksimal!
 - Gratis / non berbayar.
 
 ## Pitch Deck
-[Download Pitch Deck (PDF)](Pitch_Deck_STUDYHUB.pdf)
+[Download Pitch Deck (PDF)](PitchDeck_STUDYHUB.pdf)
 
 ## Video Demo
-[Watch on YouTube](https://youtube.com/xxxxxx)
+[Watch on YouTube](https://youtu.be/csKJDO-F7Sc)
 
 ## License
 This project is licensed under the MIT License.
