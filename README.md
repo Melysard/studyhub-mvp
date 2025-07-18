@@ -1,4 +1,4 @@
-# StudyHub MVP
+# StudyHub
 
 StudyHub adalah aplikasi belajar yang membantu pelajar dan mahasiswa menemukan materi lengkap, video pembelajaran, mencatat, dan berdiskusi secara interaktif.
 
@@ -14,7 +14,7 @@ StudyHub adalah aplikasi belajar yang membantu pelajar dan mahasiswa menemukan m
 Tampilan menarik dan mudah digunakan. Fokus belajar jadi maksimal!
 
 ## Testimoni Pengguna
-> “Aplikasinya sangat membantu! Materinya lengkap dan videonya mudah dipahami.”  
+> “Aplikasinya sangat membantu! apalagi materi terstruktur.”  
 > — Maurin, Mahasiswa TI
 
 ✅ Digunakan oleh lebih dari 50 mahasiswa
@@ -27,7 +27,7 @@ Tampilan menarik dan mudah digunakan. Fokus belajar jadi maksimal!
 - Gratis / non berbayar.
 
 ## Pitch Deck
-[Download Pitch Deck (PDF)](PitchDeck_STUDYHUB.pdf)
+[Download Pitch Deck (PDF)](PitchDeck%20_STUDYHUB.pdf)
 
 ## Video Demo
 [Watch on YouTube](https://youtu.be/csKJDO-F7Sc)
